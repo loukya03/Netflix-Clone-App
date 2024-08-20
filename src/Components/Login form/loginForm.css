@@ -1,0 +1,58 @@
+.body2 {
+    height: 100%;
+    width: 100%;
+    background-image: url("/React Internship/netflix-app/public/img/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    position: fixed;
+    z-index: -1;
+}
+
+.formBox {
+    height: 100%;
+    padding: 70px 0px;
+    background-color: rgb(18, 16, 16);
+    opacity: 0.7;
+    color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.container {
+    background-color: black;
+    border: 1px solid white;
+    border-radius: 5px;
+    width: 20%;
+    height: 50%;
+    padding: 30px 40px 20px 40px;
+}
+
+.check {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.bottom {
+    display: flex;
+    align-items: center;
+}
+
+.field {
+    margin-bottom: 15px;
+    height: 35px;
+    width: 290px;
+    padding-left: 10px;
+}
+
+.btn {
+    width: 300px;
+    background-color: red;
+    border: 1px transparent;
+    color: white;
+    height: 40px;
+    font-weight: 500;
+    font-size: 15px;
+    cursor: pointer;
+}

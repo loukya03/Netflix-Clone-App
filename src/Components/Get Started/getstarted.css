@@ -1,0 +1,74 @@
+.startPage {
+    display: flex;
+    flex-direction: column;
+    color: white;
+}
+
+.startHeader {
+    display: flex;
+    align-items: center;
+    column-gap: 1200px;
+    margin-top: 15px;
+}
+
+.logos {
+    width: 150px;
+    height: 45px;
+    margin-left: 50px;
+}
+
+.sign2 {
+    background-color: transparent;
+    border: 1px transparent;
+    cursor: pointer;
+    font-size: 17px;
+    font-weight: bold;
+    color: white;
+}
+
+.points {
+    display: flex;
+    flex-direction: column;
+    padding: 10px 30px; 
+    text-align: left;
+    column-gap: 20px;
+    row-gap: 20px;
+}
+
+.tick {
+    padding-right: 15px;
+}
+
+.point {
+    display: flex;
+    align-items: center;
+    padding-left: 20px;
+}
+
+
+.step1 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 400px;
+    height: 350px;
+    margin: 120px 550px;
+    row-gap: 10px;
+    border: 1px solid white;
+    padding: 30px 10px;
+}
+
+.redTick {
+    color: red;
+    height: 40px;
+    width: 40px;
+}
+
+.plan {
+    background-color: red;
+    color: white;
+    width: 350px;
+    font-size: 15px;
+    padding: 15px 0px;
+    cursor: pointer;
+}

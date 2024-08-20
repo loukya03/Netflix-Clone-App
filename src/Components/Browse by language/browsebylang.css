@@ -1,0 +1,62 @@
+.browsePage{
+    background-color: black;
+    padding-bottom: 40px;
+    color: white;
+}
+
+.browseTitle {
+    font-size: 25px;
+    color: white;
+}
+
+.left3 {
+    display: flex;
+    align-items: center;
+    column-gap: 300px;
+    justify-content: center;
+    margin-left: 50px;
+}
+
+.rightHalf {
+    display: flex;
+    align-items: center;
+    column-gap: 15px;
+    padding-top: 15px;
+}
+
+.select {
+    background-color: black;
+    color: white;
+    border: 1px solid white;
+    padding: 8px;
+    padding-right: 50px;
+}
+
+.browseheader {
+    width: 100%;
+    position: fixed;
+    z-index: 1000;
+    top: 0;
+    background-color: black;
+}
+
+.grid2 {
+    margin-top: 180px;
+}
+
+.browsePage {
+    display: flex;
+    flex-direction: column;
+}
+
+.pic3 {
+    padding: 20px;
+    background-color: transparent;
+    border: 1px solid transparent;
+}
+
+.pic3 img {
+    display: block;
+    width: 100%;
+    height: auto;
+}
