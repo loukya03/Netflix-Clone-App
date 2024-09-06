@@ -48,7 +48,7 @@ function LoginForm() {
 
       {/* Header of the page */}
       <div className='header'>
-        <img src='/img/netflixLogo2.png' alt='' className='logo'></img>
+        <img src='../img/netflixLogo2.png' alt='' className='logo'></img>
       </div>
 
       {/* The form to enter username and password */}

@@ -46,24 +46,24 @@ function ShowsGrid() {
             </div>
 
             <div className='grid'>
-                <button className='pic2'><img src='/img/myList1.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList2.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList3.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList4.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList5.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList6.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList7.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList8.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList9.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/nextWatch1.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/nextWatch2.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/nextWatch3.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/nextWatch4.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/nextWatch5.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/nextWatch6.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList3.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList1.png' alt='' style={{ height: 130 }} /></button>
-                <button className='pic2'><img src='/img/myList6.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList1.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList2.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList3.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList4.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList5.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList6.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList7.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList8.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList9.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/nextWatch1.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/nextWatch2.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/nextWatch3.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/nextWatch4.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/nextWatch5.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/nextWatch6.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList3.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList1.png' alt='' style={{ height: 130 }} /></button>
+                <button className='pic2'><img src='../img/myList6.png' alt='' style={{ height: 130 }} /></button>
             </div>
         </div>
     )

@@ -20,7 +20,7 @@ function LoginHeader() {
       {/* The header */}
         <div className='header'>
             <div className='col-30'>
-                <img src='/img/netflixLogo2.png' alt='' className='logo'></img>
+                <img src='../img/netflixLogo2.png' alt='' className='logo'></img>
             </div>
 
             <div className='col=70'>

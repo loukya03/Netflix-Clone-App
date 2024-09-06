@@ -6,7 +6,7 @@
 .mainPage2 {
     height: 100%;
     width: 100%;
-    background-image: url('/React Internship/netflix-app/public/img/vincenzo.png');
+    background-image: url('/public/img/vincenzo.png');
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;

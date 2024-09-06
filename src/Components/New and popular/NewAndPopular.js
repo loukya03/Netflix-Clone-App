@@ -51,15 +51,15 @@ function NewAndPopular() {
         </div>
         <div className='section1' ref={comingRef}>
           <div className='list1' style={{ paddingBottom: 50 }}>
-            <button className='pic'><img src='/img/myList6.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList9.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList7.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList5.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList1.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList3.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList4.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList2.png' alt='' style={{ height: 130 }} /></button>
-            <button className='pic'><img src='/img/myList8.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList6.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList9.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList7.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList5.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList1.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList3.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList4.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList2.png' alt='' style={{ height: 130 }} /></button>
+            <button className='pic'><img src='../img/myList8.png' alt='' style={{ height: 130 }} /></button>
           </div>
         </div>
       </div>

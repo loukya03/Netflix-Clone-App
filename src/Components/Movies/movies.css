@@ -2,7 +2,7 @@
 
     height: 100%;
     width: 100%;
-    background-image: url('/React Internship/netflix-app/public/img/nanna.png');
+    background-image: url('/public/img/nanna.png');
     background-size: cover;
     background-repeat: no-repeat;
     z-index: -1;

@@ -10,7 +10,7 @@ function GetStarted() {
     return (
         <div className='startPage'>
             <div className='startHeader'>
-                <img src='/img/netflixLogo2.png' alt='' className='logos'></img>
+                <img src='../img/netflixLogo2.png' alt='' className='logos'></img>
                 <button className='sign2' onClick={() => navigate('/form')}>Sign In</button>
             </div>
             <div className='step1'>

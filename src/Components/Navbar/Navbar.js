@@ -32,7 +32,7 @@ function Navbar() {
         <div className='fullNavbar'>
             {/* The navbar */}
             <div className={scroll ? 'scroll active' : 'scroll'}>
-                <img src='/img/netflixLogo2.png' alt='' className='logo2'></img>
+                <img src='../img/netflixLogo2.png' alt='' className='logo2'></img>
                 <div className='navbar'>
                     <div className='left'>
                         <a className='link' href='/home'>Home</a>
