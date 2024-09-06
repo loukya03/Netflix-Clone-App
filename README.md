@@ -1,3 +1,12 @@
+To run the project
+
+1. Download the files
+2. Once downloaded in the command prompt of the folder give
+    npm i
+    npm build 
+    npm start
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
